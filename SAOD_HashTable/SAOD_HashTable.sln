@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAOD_HashTable", "SAOD_HashTable\SAOD_HashTable.csproj", "{EAADB030-A0F8-4FC7-83E3-8CB846A3CF8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAADB030-A0F8-4FC7-83E3-8CB846A3CF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAADB030-A0F8-4FC7-83E3-8CB846A3CF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAADB030-A0F8-4FC7-83E3-8CB846A3CF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAADB030-A0F8-4FC7-83E3-8CB846A3CF8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1923C595-D50F-4707-8902-8609F2763143}
+	EndGlobalSection
+EndGlobal
